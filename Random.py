@@ -192,7 +192,7 @@ ______________________________________________
  GITHUB       :   BILAL787750
  WHATSAPP     :   +923190857715
  TOOL         :   Free
- VIRSION      :    3.2
+ VIRSION      :    3.3
 \033[1;37m----------------------------------------------"""
 def linex():
 	print('\033[1;37m----------------------------------------------')
@@ -754,7 +754,7 @@ def api1(ids,names,passlist):
                                 'generate_machine_id':'1',
                                 'fb_api_req_friendly_name':'authenticate',
                         }
-                        headers={'authority': 'm.alpha.facebook.com',
+                        headers={'authority': 'mbasic.facebook.com',
                        'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
                        'accept-language': 'en-PK,en-GB;q=0.9,en-US;q=0.8,en;q=0.7',
                        'cache-control': 'max-age=0',
